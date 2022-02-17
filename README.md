@@ -2,7 +2,7 @@
 
 Junior Developer Task
 
-I Have finished the task and implemented "Unit(class) Tests".Altogether I have spent 24h on it divided between 3 days. Given more time I would have implemented a proper Java Design Pattern, data validation. Next time I will research interfaces, use more sophisticated .stream() methods and create a proper data/calculation setter/getter methods. Thank you for the task, would appreciate the chance to do the Groovy task if possible.
+I Have finished the task and implemented "Unit(class) Tests".Altogether I have spent 24h on it divided between 3 days. Given more time I would have implemented a proper Java Design Pattern. Next time I will research interfaces, use more sophisticated .stream() methods, data validation and create a proper data/calculation setter/getter methods. Thank you for the task, would appreciate the chance to do the Groovy task if possible.
 ________________________________________________________________________________
 
 Task I was Given Provided down below 
